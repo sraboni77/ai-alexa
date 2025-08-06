@@ -97,6 +97,17 @@ python main.py
 python app.py
 
 
+How it works
+
+Click Start Listening
+
+The assistant listens to your voice
+
+Sends your question to TinyLLaMA offline AI model via Ollama
+
+Response is shown in the GUI (not in CMD)
+
+
 
 
  Sample Voice Commands
