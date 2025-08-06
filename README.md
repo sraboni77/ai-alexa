@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
  3. Required Libraries
 
-If requirements.txt না থাকলে নিচেরগুলো ইনস্টল করো:
+ requirements.txt 
 
 pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes requests customtkinter
 
